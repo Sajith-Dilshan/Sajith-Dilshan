@@ -4,7 +4,7 @@ I am a University student. The degree course I am studying is B.A.Information an
 
 Skills: REACT/ JS / HTML / CSS/ JAVA /PYTHON
 
-- 🔭 I’m currently working on as astudent 
+- 🔭 I’m currently working on as a student 
 - 🌱 I’m currently learning react 
 - 💬 Ask me about technology and buddhist philosophy 
 - 📫 How to reach me: https://www.linkedin.com/in/sajith-dilshan 
