@@ -26,20 +26,6 @@ Skills: REACT/ JS / HTML / CSS/ JAVA /PYTHON
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]
 [<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
-<br />
 [<img align="left" alt="postgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />]
 
 
-<br />
-<br />
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/Sajith-Dilshan)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Sajith-Dilshan)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Sajith-Dilshan&show_icons=true&count_private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/Sajith-Dilshan)  
-
-![Profile views](https://gpvc.arturio.dev/https://github.com/Sajith-Dilshan)  
