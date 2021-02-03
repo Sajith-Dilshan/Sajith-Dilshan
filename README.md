@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is sajith dilshan
 #### I am tech lover
-I am a University student. The degree course I am studying is B.A.Information and communication technology in Sabaragamuwa University of Sri Lanka. After discovering my passion for software development, web development, and digital marketing. I’m looking forward to bringing that passion to a full-time role.
+I am a University student. The degree course, I am studying is B.A.Information and communication technology in Sabaragamuwa University of Sri Lanka. After discovering my passion for software development, web development, and digital marketing. I’m looking forward to bringing that passion to a full-time role.
 
 Skills: REACT/ JS / HTML / CSS/ JAVA /PYTHON
 
