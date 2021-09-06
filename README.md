@@ -21,10 +21,10 @@ Skills: REACT/ JS / HTML / CSS/ JAVA /PYTHON
 
 # Latest YouTube Videos
 
-- [Brain Tumor Detection System Using Convolutional Neural Network](https://youtu.be/PqSNEgSSY-I)
-- [Flappy Bird Game in Adobe Animate CC Using ActionScript 3.0](https://youtu.be/PV_rLJWuxeA)
-- [Authentication Module Java Web Project Using Jsp & Servlet](https://youtu.be/08Ut4azZKv4)
-- [University Result Management system | Java Servlet Project | Dynamic Web Application.](https://youtu.be/NMiH4veMShw)
+- [Brain Tumor Detection System Using Convolutional Neural Network](https://youtu.be/aRhxSjTWqnw)
+- [Flappy Bird Game in Adobe Animate CC Using ActionScript 3.0](https://youtu.be/lZsfMdTJDuo)
+- [Authentication Module Java Web Project Using Jsp & Servlet](https://youtu.be/efhjh4BMi0g)
+- [University Result Management system | Java Servlet Project | Dynamic Web Application.](https://youtu.be/WtnFZdlSqwY)
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
