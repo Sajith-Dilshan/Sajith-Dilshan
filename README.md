@@ -1,5 +1,6 @@
 ### Hi there 👋, my name is sajith dilshan
 #### I am tech lover
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 I am a University student. The degree course, I am studying is B.A.Information and communication technology in Sabaragamuwa University of Sri Lanka. After discovering my passion for software development, web development, and digital marketing. I’m looking forward to bringing that passion to a full-time role.
 
 Skills: REACT/ JS / HTML / CSS/ JAVA /PYTHON
