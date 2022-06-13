@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm sajith dilshan</h1>
-<h3 align="center">A passionate full stack developer from Sri Lanka</h3> <br>
+<h3 align="center">A passionate full stack software engineer  from Sri Lanka</h3> <br>
 
 - 🌱 I’m currently learning **Cloud service infrastructure**
 
