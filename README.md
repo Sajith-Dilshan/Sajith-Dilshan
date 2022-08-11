@@ -34,8 +34,6 @@
 &nbsp;
   <code><img width="4%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code>
 &nbsp;
-<code><img width="4%" src="https://parceljs.org/avatar.accb250e.png"></code>
-&nbsp;
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-icon.svg"></code>
 &nbsp;
 <code><img width="4%" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg"></code>
