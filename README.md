@@ -116,9 +116,10 @@
 
 # Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [A Simple Face Detection System in Using OpenCV & Python](https://medium.com/geekculture/a-simple-face-detection-system-in-using-opencv-python-a9051dfa525e)
-- [🔥 How China suppressed Covid-19 using artificial intelligence. 👨🏻‍💻](https://medium.com/nerd-for-tech/how-china-suppressed-covid-19-using-artificial-intelligence-3ebb510fb326)
-- [Installing OpenCV for Python on Windows Using Anaconda 🤔](https://medium.com/geekculture/installing-opencv-for-python-on-windows-using-anaconda-6d0937ae6c28)
+- [⚡ All About String in Java ⚡](https://medium.com/geekculture/all-about-string-in-java-51ba9e46181a)
+- [A Simple Face Detection System in Using OpenCV & Python](https://medium.com/geekculture/a-simple-face-detection-system-in-using-opencv-python-5abda1d07b38)
+- [🔥 How China suppressed Covid-19 using artificial intelligence. 👨🏻‍💻](https://medium.com/nerd-for-tech/how-china-suppressed-covid-19-using-artificial-intelligence-bf28e2cd0a79)
+- [Installing OpenCV for Python on Windows Using Anaconda 🤔](https://medium.com/geekculture/installing-opencv-for-python-on-windows-using-anaconda-d37300e2e194)
 
 
 
