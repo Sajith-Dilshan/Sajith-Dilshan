@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **web technologies and buddhist philosophy**
 
-- 📫 How to reach me **sajithd784@gmail.com**
+
 
 
 
